@@ -1,0 +1,12 @@
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\bin\Debug\Рисовалка.exe.config
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\bin\Debug\Рисовалка.exe
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\bin\Debug\Рисовалка.pdb
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\obj\Debug\Рисовалка.csprojResolveAssemblyReference.cache
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\obj\Debug\Рисовалка.Form1.resources
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\obj\Debug\Рисовалка.Properties.Resources.resources
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\obj\Debug\Рисовалка.csproj.GenerateResource.Cache
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\obj\Debug\Рисовалка.exe
+c:\users\виктория\documents\visual studio 2013\Projects\Рисовалка\Рисовалка\obj\Debug\Рисовалка.pdb
+F:\something\C#\Рисовалка\Рисовалка\bin\Debug\Рисовалка.exe.config
+F:\something\C#\Рисовалка\Рисовалка\obj\Debug\Рисовалка.exe
+F:\something\C#\Рисовалка\Рисовалка\obj\Debug\Рисовалка.pdb
